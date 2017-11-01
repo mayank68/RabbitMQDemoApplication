@@ -1,0 +1,13 @@
+E:\Mayank\Demo\RabbitMQ_Consoles\SenderWorkerQueue\bin\Debug\SenderWorkerQueue.exe.config
+E:\Mayank\Demo\RabbitMQ_Consoles\SenderWorkerQueue\bin\Debug\SenderWorkerQueue.exe
+E:\Mayank\Demo\RabbitMQ_Consoles\SenderWorkerQueue\bin\Debug\SenderWorkerQueue.pdb
+E:\Mayank\Demo\RabbitMQ_Consoles\SenderWorkerQueue\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+E:\Mayank\Demo\RabbitMQ_Consoles\SenderWorkerQueue\bin\Debug\RabbitMQ.Client.dll
+E:\Mayank\Demo\RabbitMQ_Consoles\SenderWorkerQueue\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+E:\Mayank\Demo\RabbitMQ_Consoles\SenderWorkerQueue\bin\Debug\RabbitMQ.Client.xml
+E:\Mayank\Demo\RabbitMQ_Consoles\SenderWorkerQueue\obj\Debug\SenderWorkerQueue.csproj.CoreCompileInputs.cache
+E:\Mayank\Demo\RabbitMQ_Consoles\SenderWorkerQueue\obj\Debug\SenderWorkerQueue.exe
+E:\Mayank\Demo\RabbitMQ_Consoles\SenderWorkerQueue\obj\Debug\SenderWorkerQueue.pdb
+E:\Mayank\Demo\RabbitMQ_Consoles\SenderWorkerQueue\bin\Debug\CommonMethods.dll
+E:\Mayank\Demo\RabbitMQ_Consoles\SenderWorkerQueue\bin\Debug\CommonMethods.pdb
+E:\Mayank\Demo\RabbitMQ_Consoles\SenderWorkerQueue\obj\Debug\SenderWorkerQueue.csprojResolveAssemblyReference.cache

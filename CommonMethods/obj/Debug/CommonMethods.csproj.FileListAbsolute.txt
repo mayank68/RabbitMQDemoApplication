@@ -1,0 +1,10 @@
+E:\Mayank\Demo\RabbitMQ_Consoles\CommonMethods\obj\Debug\CommonMethods.csprojResolveAssemblyReference.cache
+E:\Mayank\Demo\RabbitMQ_Consoles\CommonMethods\obj\Debug\CommonMethods.csproj.CoreCompileInputs.cache
+E:\Mayank\Demo\RabbitMQ_Consoles\CommonMethods\bin\Debug\CommonMethods.dll
+E:\Mayank\Demo\RabbitMQ_Consoles\CommonMethods\bin\Debug\CommonMethods.pdb
+E:\Mayank\Demo\RabbitMQ_Consoles\CommonMethods\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+E:\Mayank\Demo\RabbitMQ_Consoles\CommonMethods\bin\Debug\RabbitMQ.Client.dll
+E:\Mayank\Demo\RabbitMQ_Consoles\CommonMethods\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+E:\Mayank\Demo\RabbitMQ_Consoles\CommonMethods\bin\Debug\RabbitMQ.Client.xml
+E:\Mayank\Demo\RabbitMQ_Consoles\CommonMethods\obj\Debug\CommonMethods.dll
+E:\Mayank\Demo\RabbitMQ_Consoles\CommonMethods\obj\Debug\CommonMethods.pdb
